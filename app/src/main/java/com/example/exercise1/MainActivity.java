@@ -82,7 +82,7 @@ public class MainActivity extends AppCompatActivity {
         mPicassoBuilder.build().load(URL).resize(900, 900).into(imageView);
         //RefreshSet to hide/unHide button
         if (index > 0) {
-
+            //Back image
             backImg.setVisibility(View.VISIBLE);
             backImg.setText("BACK");
             nextImg.setText("Img "+index + " >>");
