@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Exercise1</string>
+    <string name="app_name">Exercise2</string>
     <string name="CheckURL">Preview URL</string>
     <string name="Add">Add Bimap byte to DB</string>
     <string name="camera">Open Camera</string>
