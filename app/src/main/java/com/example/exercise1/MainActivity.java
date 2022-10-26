@@ -212,7 +212,6 @@ public class MainActivity extends AppCompatActivity {
                 imageUrls.add(cursor.getString(1));
             }
             //The Empty URL list will be fill after DB have data URL
-//            imageUrls.get(index);
         }
     }
 
