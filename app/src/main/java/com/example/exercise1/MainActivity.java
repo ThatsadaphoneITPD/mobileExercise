@@ -1,3 +1,4 @@
+
 package com.example.exercise1;
 
 import androidx.annotation.NonNull;
@@ -30,7 +31,6 @@ import com.squareup.picasso.Picasso;
 import com.squareup.picasso.Target;
 
 import java.util.ArrayList;
-
 public class MainActivity extends AppCompatActivity {
     ImageView imageView;
     ArrayList<Bitmap> imageUrls;
